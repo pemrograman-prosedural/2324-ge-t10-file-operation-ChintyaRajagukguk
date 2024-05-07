@@ -1,7 +1,5 @@
 #include "repository.h"
+#include "dorm.h" // Include the header file for load_dorm_data declaration
+#include <stdio.h>
 
-/**
- * @brief Define the complete function definition here. Be sure to enlist the prototype of each function
- * defined here in the corresponding header file.
- *
- */
+// You don't need the definition of load_dorm_data here

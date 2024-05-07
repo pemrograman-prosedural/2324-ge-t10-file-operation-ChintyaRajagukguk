@@ -12,5 +12,6 @@ enum gender_t
     GENDER_MALE,
     GENDER_FEMALE
 };
+void load_gender_data();
 
 #endif
