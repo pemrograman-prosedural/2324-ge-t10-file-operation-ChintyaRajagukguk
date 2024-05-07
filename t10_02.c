@@ -1,5 +1,5 @@
-// NIM - Name
-// NIM - Name
+// 12S23045 - Chintya Reginauli Rajagukguk
+// 12S23030 - Simorangkir, Jonathan Syaloom
 
 #include <stdio.h>
 #include <string.h>
